@@ -1344,5 +1344,23 @@ input[type="text"] {
  text-align: center; 
 }
 
+.glow-text {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: 0 0 2px #c0392b, 0 0 5px #8e44ad, 0 0 8px #ac3737;
+  color:red;
+  font-size: medium ;
+}
+  .glow-text1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 0 0 2px #bb046f, 0 0 5px #e3ceec, 0 0 8px #530707;
+    color:red;
+    font-size: medium ;
+  }
 
+  .glow-text2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 0 0 2px #ee73bb, 0 0 5px #63072d, 0 0 8px #e7d915;
+    color:rgb(213, 238, 73);
+    font-size: medium ;
+  }
 /*# sourceMappingURL=style.css.map */
