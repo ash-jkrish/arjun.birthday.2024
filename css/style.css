@@ -1363,4 +1363,12 @@ input[type="text"] {
     color:rgb(213, 238, 73);
     font-size: medium ;
   }
+
+  .glow-text3
+  {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 0 0 2px #7c0f4f, 0 0 5px #63072d, 0 0 8px #fca1f7;
+    color:rgb(251, 255, 0);
+    font-size: medium ;
+  }
 /*# sourceMappingURL=style.css.map */
